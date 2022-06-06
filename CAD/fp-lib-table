@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Project Narsil Sword")(type KiCad)(uri "$(KIPRJMOD)/Project Narsil Sword.pretty")(options "")(descr ""))
+)

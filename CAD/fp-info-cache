@@ -1,4 +1,4 @@
-19945867721227119
+19943277611062401
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -14,15 +14,8 @@ audio belton reverb
 7
 7
 BadgePirates
-3.5mm_lapel_pin
-
-
-0
-1
-1
-BadgePirates
 AA
-
+AA Battery Holder, SMD
 
 0
 8
@@ -35,14 +28,14 @@ Resistor Network
 8
 8
 BadgePirates
-Badgelife-SAOv169-BADGE-2x3
+Badgelife-SAOv169-BADGE_Side_F.SLK
 Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
 Through hole IDC box header THT 2x03 2.54mm double row
 0
 6
 6
 BadgePirates
-Badgelife-SAOv169-BADGE-2x3_Back
+Badgelife-SAOv169-SAO_Side_B.SLK
 Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
 Through hole IDC box header THT 2x03 2.54mm double row
 0
@@ -50,7 +43,7 @@ Through hole IDC box header THT 2x03 2.54mm double row
 6
 BadgePirates
 BatteryHolder_LINX_BAT-HLD-006-SMT
-BAT-HLD-006-SMT-1
+2450 Battery Holder
 Undefined or Miscellaneous
 0
 3
@@ -64,7 +57,7 @@ battery holder coin cell cr1216 cr1220 cr1225
 2
 BadgePirates
 BatteryHolder_MPD_BC2003_1x2032
-http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf
+2032 Battery Holder
 BC2003 CR2032 2032 Battery Holder
 0
 3
@@ -99,70 +92,70 @@ ESP32-S2
 43
 BadgePirates
 Hole_3.5mm
-Mounting Hole 5.5mm
-mounting hole 5.5mm
+Mounting Hole 3.5mm
+mounting hole 3.5mm
 0
 1
+0
+BadgePirates
+Hole_3mm_lapel_pin
+Lapel Pin 3mm Hole, 5.75 pad
+Lapel Pin 3mm Hole, 5.75 pad
+0
 1
+0
 BadgePirates
 Hole_4.5mm
-Mounting Hole 5.5mm
-mounting hole 5.5mm
+Mounting Hole 4.5mm
+mounting hole 4.5mm
 0
 1
-1
+0
 BadgePirates
 Hole_5.5mm
 Mounting Hole 5.5mm
 mounting hole 5.5mm
 0
 1
-1
+0
 BadgePirates
 Keystone-54-MFG
-
-
+Through Hole, 1865 Side Clips
+Through Hole, 1865 Side Clips
 0
 3
 1
 BadgePirates
 Keystone-1042-0
-
-
+18650 Plastic Battery Holder, Surface Mount
+18650 Plastic Battery Holder, Surface Mount
 0
 2
 2
 BadgePirates
 LED_COM-11821
-
-
+6 pin RGB LED NeoPixel
+6 pin RGB LED NeoPixel
 0
 6
 6
-BadgePirates
-LED_Osram_Lx_P47F_D2mm_ReverseMount_MaskNoHole
-OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
-LED ReverseMount Reverse
-0
-4
-2
 BadgePirates
 LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only
-OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+Reverse-mount LED, SMD, Mask removed
 LED ReverseMount Reverse
 0
 4
 2
 BadgePirates
 LED_Osram_Lx_P47F_D2mm_ReverseMount_WHole
-OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+OSRAM, reverse-mount LED, SMD, With a Hole through to Front
 LED ReverseMount Reverse
 0
 4
 2
 BadgePirates
 LTC4054
-
+constant-voltage linear charger for single cell lithium-ion batteries
 Lipo charger
 0
 5
@@ -196,16 +189,9 @@ resistor
 2
 2
 BadgePirates
-SK-3296S-01-L2
-Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
-
-0
-7
-3
-BadgePirates
 SOIC-8-1EP_W3.9mm
-
-
+Standard SOIC8 pin with Center Pad
+Standard SOIC8 pin with Center Pad
 0
 9
 9
@@ -218,8 +204,8 @@ Integrated Circuit
 16
 BadgePirates
 SOT-223
-
-
+Standard SOT-223 Footprint
+Standard SOT-223 Footprint
 0
 4
 4
@@ -245,37 +231,37 @@ Tactile Switch
 4
 2
 BadgePirates
-Slot_5.57x5mm
-Mounting Hole 5.5mm
-mounting hole 5.5mm
+Slot_6x4mm
+Slot Hole 6x4
+Slot Hole 6x4
 0
 1
-1
+0
 BadgePirates
-Slot_12mm
-Mounting Hole 5.5mm
-mounting hole 5.5mm
+Slot_7x5mm
+Slot Hole 7x5
+Slot Hole 7x5
 0
 1
-1
+0
 BadgePirates
 Slot_12x5mm
-Mounting Hole 5.5mm
-mounting hole 5.5mm
+Slot Hole 12x5
+Slot Hole 12x5
 0
 1
-1
+0
 BadgePirates
 Switch_Tactile_SMD_B3U-1000P-BPVersion
-
-
+Switch Tactile SMB with Larger Pads for ease of Solder and Alighnment
+Switch Tactile SMB with Larger Pads for ease of Solder and Alighnment
 0
 2
 2
 BadgePirates
 TouchPad_10x10mm
-SMD rectangular pad as test Point, square 4.0mm side length
-test point SMD pad rectangle square
+SMD rectangular pad as TouchPad, square 4.0mm side length
+SMD rectangular pad as TouchPad, square 4.0mm side length
 0
 1
 1
@@ -295,21 +281,14 @@ test point SMD pad rectangle square
 1
 BadgePirates
 USB_C_Receptical-Jing
-
-
+USB C with Mounting hole
+USB C with Mounting hole
 0
 20
 17
 BadgePirates
-USB_Micro-B_Wuerth_629105150521
-USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
-usb micro receptacle
-0
-9
-6
-BadgePirates
-USB_Micro-B_Wuerth_629105150521_fgFixed
-USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+USB_Micro-B_Wuerth
+USB Micro-B receptacle with Mounting Hole
 usb micro receptacle
 0
 9
@@ -456,6 +435,13 @@ pecord_F.SLK
 0
 BadgePiratesLogo
 shi%%y_B.SLK
+
+
+0
+0
+0
+BadgePiratesLogo
+shi%%y_F.SLK
 
 
 0

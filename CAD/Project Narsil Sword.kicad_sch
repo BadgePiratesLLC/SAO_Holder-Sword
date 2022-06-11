@@ -404,7 +404,7 @@
     (property "Value" "BAT-HLD-006-SMT" (id 1) (at 106.68 91.4399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "BadgePirates:BatteryHolder_LINX_BAT-HLD-012-SMT" (id 2) (at 106.68 85.09 0)
+    (property "Footprint" "BadgePirates:BatteryHolder_MPD_BC2003_1x2032" (id 2) (at 106.68 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-006-smt-ds.pdf" (id 3) (at 106.68 87.63 0)
@@ -809,7 +809,7 @@
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "BadgePirates:SW_SPDT_PCM12")
     )
     (path "/1e97e274-03d3-49f2-965f-f4108456c327"
-      (reference "U1") (unit 1) (value "BAT-HLD-006-SMT") (footprint "BadgePirates:BatteryHolder_LINX_BAT-HLD-012-SMT")
+      (reference "U1") (unit 1) (value "BAT-HLD-006-SMT") (footprint "BadgePirates:BatteryHolder_MPD_BC2003_1x2032")
     )
     (path "/06e1571b-569f-4df7-9572-da619078c70c"
       (reference "X1") (unit 1) (value "Badgelife_sao_connector_v169bis") (footprint "BadgePirates:Badgelife-SAOv169-BADGE-2x3_Back")
